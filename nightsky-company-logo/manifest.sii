@@ -1,0 +1,28 @@
+SiiNunit
+{
+# ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
+# Please keep this form to not make any conflicts with other mod packages (name collisions).
+# Пакет имён он же пространство имён.
+mod_package : .vnightsky {
+
+    # Package version can be any string with any length.
+    # Версия пакета. Может быть любой. Версия мода.
+    package_version: "0.1"
+
+    # Display name can be any string with any length.
+    # Название мода, может быть любой длинны.
+    display_name: "Nightsky Company Logo"
+
+    # Categories is an array of strings.
+    # Список категорий в формате строк.
+    category[]: "ui"
+
+    # Icon inside the root directory of the mod.
+    # Название иконки в корневой директории. Размер строго 276x162.
+    icon: "mod_icon.jpg"
+
+    # Description file inside the root directory of the mod.
+    # Название файла с описанием в корневой директории.
+    description_file: "description.txt"
+}
+}

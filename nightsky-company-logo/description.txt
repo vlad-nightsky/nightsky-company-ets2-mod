@@ -1,0 +1,9 @@
+[orange]Nightsky Company Logo 
+[normal]0.1
+
+В списке логотипов компании, заменяю первый логотип компании на свой логотип.
+
+-------------------------------------
+
+In the list of company logos, I replace the first company logo with my logo.
+
